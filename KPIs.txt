@@ -1,0 +1,38 @@
+
+Core KPIs:
+
+Total Employees
+
+Average Salary
+
+Average Age
+
+Total Attrition
+
+Attrition Rate (%)
+
+Average Job Satisfaction
+
+
+
+Analytical Insights:
+
+Top Earners by Job Role – Identifies compensation trends across roles.
+
+Attrition Rate by Overtime Status – Highlights correlations between overtime and employee turnover.
+
+Environment Satisfaction by Department – Assesses workplace satisfaction across business units.
+
+Average Tenure by Job Role – Provides insight into employee retention by function.
+
+
+
+Dynamic Slicers for Deeper Analysis:
+
+Job Role
+
+Gender
+
+Education
+
+Years at Company
