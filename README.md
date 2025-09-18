@@ -2,6 +2,7 @@ Overview
 
 HR Analytics is a data-driven project designed to provide actionable insights into employee metrics and organizational trends. By analyzing key performance indicators (KPIs) and leveraging dynamic slicers, this project helps HR professionals and business leaders understand workforce dynamics, compensation trends, and employee satisfaction to optimize retention and workplace strategies.
 
+
 Core KPIs
 
 The project tracks the following key performance indicators:
@@ -32,6 +33,7 @@ Attrition Rate (%): Percentage of employees who have left relative to the total 
 
 Average Job Satisfaction: Mean job satisfaction score across employees.
 
+
 Analytical Insights
 
 The project provides the following analytical insights:
@@ -53,6 +55,7 @@ Environment Satisfaction by Department: Assesses workplace satisfaction levels a
 
 
 Average Tenure by Job Role: Provides insights into employee retention and tenure by job function.
+
 
 Dynamic Slicers for Deeper Analysis
 
