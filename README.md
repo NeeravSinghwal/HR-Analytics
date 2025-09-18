@@ -34,6 +34,7 @@ Attrition Rate (%): Percentage of employees who have left relative to the total 
 Average Job Satisfaction: Mean job satisfaction score across employees.
 
 
+
 Analytical Insights
 
 The project provides the following analytical insights:
